@@ -1,3 +1,16 @@
+⛔Note: Could not upload all the node modules as there were many folders in it and it was not possible to upload every file here . 
+
+Live Weather Search App 
+
+-Created a Weather App which will display the Weather of any city in world on the website . 
+-It is one of my initial projects while learning ReactJS. 
+-I have made use of a weather API that helps me display the live weather of different cities.
+
+-It includes components from React Library , API Integration, Live data Display, etc.
+
+
+Hope You Like it. ❤️
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
