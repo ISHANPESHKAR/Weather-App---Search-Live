@@ -8,6 +8,8 @@ Live Weather Search App
 
 -It includes components from React Library , API Integration, Live data Display, etc.
 
+API Website Link : https://openweathermap.org/
+
 
 Hope You Like it. ❤️
 
